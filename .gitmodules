@@ -1,3 +1,4 @@
 [submodule "ext/rusefi"]
 	path = ext/rusefi
-	url = https://github.com/rusefi/rusefi
+	url = https://github.com/pwmurawski/rusefi
+	branch = fix_flash_vet6_1mb_release_20260220_2
